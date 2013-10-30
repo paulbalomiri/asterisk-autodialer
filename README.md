@@ -1,4 +1,4 @@
-# asterisk-autodialler
+# asterisk-autodialer
 
 This project aims at creating a simple dialler with functionality for
 
